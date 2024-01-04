@@ -3,6 +3,5 @@
 
 # 实验数据和参考文献
 data：Edlund C, Jackson T R, Khalid N, et al. LIVECell—A large-scale dataset for label-free live cell segmentation[J]. Nature methods, 2021, 18(9): 1038-1045.
-
 #
 EGT： Empirical gradient threshold technique for automated segmentation across image modalities and cell lines 
